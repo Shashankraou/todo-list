@@ -13,6 +13,10 @@ A sleek and user-friendly to-do list tool built with **HTML**, **CSS**, and **Ja
 - 🔍 **Filter by Status & Priority**
 - 🧹 **Clear All Tasks**
 - 💅 **Beautiful Responsive UI with Animations**
+
+## 📸 Preview
+
+![Preview Screenshot](Todolist.jpg) <!-- You can replace this with your actual screenshot -->
   
 
 ## 📂 Project Structure
