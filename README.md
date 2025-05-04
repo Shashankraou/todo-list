@@ -52,7 +52,7 @@ A sleek and user-friendly to-do list tool built with **HTML**, **CSS**, and **Ja
 
 ## 🧑‍💻 Author
 
-Built by [Shashank Rao U, Shivani, Samitha, Thanvi]
+Built by [Shashank Rao U, Shivani, Sanmitha, Thanvi]
 
 ## 📄 License
 
