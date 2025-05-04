@@ -16,12 +16,13 @@ A sleek and user-friendly to-do list tool built with **HTML**, **CSS**, and **Ja
   
 
 ## 📂 Project Structure
-├── index.html # Main HTML file
+├── `index.html` # Main HTML file
 
-├── styles.css # CSS styling with modern UI
+├── `styles.css` # CSS styling with modern UI
 
-├── script.js # JavaScript functionality
-└── README.md # Project documentation
+├── `script.js` # JavaScript functionality
+
+└── `README.md` # Project documentation
 
 
 ## 💡 How to Use
